@@ -104,13 +104,13 @@ Exemplo:
 
 Exemplo:
 ```http
-  PATH /vehicles/ABC345
+  PATH /vehicles/01GRF3MFE9Q5WYJPSD6BCP67EB
 {
     "modelo": "Fusion",
     "cor": "Prata"
 }
 
-Será feita a busca do veículo com ID = ABC345 e será atualizado o modelo e cor.
+Será feita a busca do veículo com ID = 01GRF3MFE9Q5WYJPSD6BCP67EB e será atualizado o modelo e cor.
 ```
 
 #### Excluir um Veículo
