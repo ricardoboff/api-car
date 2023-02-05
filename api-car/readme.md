@@ -1,11 +1,13 @@
 
 # Project API-CAR
 
-Projeto final do 5º modulo do OiDevs by ADA
+Projeto do Modulo Programação Web III.
 
-Construção de uma API para Cadastro de Veículos. 
+Construção de uma API para Cadastro de Veículos.
 
-Author: Ricardo Luiz Boff
+Aluno: Ricardo Luiz Boff
+
+Professor: Leonardo Souza
 
 
 ## Documentação da API
