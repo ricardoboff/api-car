@@ -1,12 +1,20 @@
 
 # Project API-CAR
 
-API para cadastro de veículos.
+Projeto final do 5º modulo do OiDevs by ADA
+
+Construção de uma API para Cadastro de Veículos. 
+
+Author: Ricardo Luiz Boff
 
 
 ## Documentação da API
 
-## Instalação
+## Rodando o Projeto
+
+Instale os pacotes do arquivo package.json
+
+## Instalação 
 
 ```http
   npm install
@@ -15,12 +23,11 @@ API para cadastro de veículos.
 ## Execução
 
 ```http
-  npm run dev
+  npm start
 ```
 
 
 ## API Reference
-
 
 
 #### Cadastrar um Veículo
@@ -108,3 +115,13 @@ Será feita a busca do veículo com ID = ABC345 e será atualizado o modelo e co
   DELETE /vehicles/:id
 
 ```
+
+
+## Dependências de arquivos e configurações
+
+  - body-parser;
+  - cors;
+  - dotenv;
+  - express;
+  - sqlite3;
+  - ulid;
