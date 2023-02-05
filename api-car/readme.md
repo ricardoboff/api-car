@@ -44,6 +44,7 @@ Instale os pacotes do arquivo package.json
 | `marca` | `string` | **Obrigatório**. |
 | `modelo` | `string` | **Obrigatório**. |
 | `cor` | `string` | **Obrigatório**. |
+| `ano` | `string` | **Obrigatório**. |
 
 Exemplo:
 ```http
@@ -51,7 +52,8 @@ Exemplo:
     "placa": "JBU3443",
     "marca": "Ford",
     "modelo": "Ka",
-    "cor": "Branco"
+    "cor": "Branco",
+    "ano": "2010"
 }
 ```
 
@@ -98,6 +100,7 @@ Exemplo:
 | `marca` | `string` | **Não Obrigatório**. |
 | `modelo` | `string` | **Não Obrigatório**. |
 | `cor` | `string` | **Não Obrigatório**. |
+| `ano` | `string` | **Não Obrigatório**. |
 
 Exemplo:
 ```http
