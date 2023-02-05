@@ -18,6 +18,7 @@ Aplicação Back-end na pasta API-CAR e Aplicação Front-end na pasta CAR-FRONT
 
 Instale os pacotes dos arquivos package.json de cada aplicação.
 
+
 ## Instalação 
 
 ```http
@@ -25,6 +26,8 @@ Instale os pacotes dos arquivos package.json de cada aplicação.
 ```
 
 ## Execução
+
+Executar cada aplicação em um terminal diferente.
 
 ```http
   npm start
